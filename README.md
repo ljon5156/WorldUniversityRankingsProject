@@ -1,6 +1,8 @@
 # WorldUniversityRankingsProject
 
-This project contains Excel CSV Files, Python code, and a Tableau Storybook based on World University data from Kaggle.
+This project contains Excel CSV Files, Python code, and a Tableau Storybook based on World University data from following link on Kaggle.
+
+(https://www.kaggle.com/datasets/mylesoneill/world-university-rankings)
 
 # Objective
 
@@ -15,4 +17,10 @@ Each ranking system provided their own data and additional data sources were sup
 - education_expenditure
 - educational_attainment
 - school_and_country_table
-- world-countries.json (found from Kaggle)
+- world-countries.json (found from Kaggle at the following link: https://www.kaggle.com/datasets/ktochylin/world-countries)
+
+# Analysis Results
+
+The link below shows the final Tableau storyboard that summarizes the results from the project. Certain graphs and steps were omitted due to insignificant results or other difficulties but these steps can still be found in the Python scripts.
+
+https://public.tableau.com/views/WorldsUniversityRankingsAnalysis/FinalStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
